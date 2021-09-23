@@ -1,0 +1,8 @@
+After the London fork the open ethereum pool no longer works because it gets the block reward wrong.
+
+It needs to subtract burning of fees from the total block reward. For someone not familiar with OEP and golang 
+this can be an almost impossible task to fix.
+
+I can sell consulting work to fix this for you on OEP. If interested you may contact me here on github.
+
+Best regards. //drhashes
